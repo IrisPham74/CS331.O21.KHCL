@@ -2,7 +2,7 @@
 ## Thành viên nhóm:
 | Họ và tên     | MSSV          |
 | ------------- | ------------- |
-| PPhan Huy Hoang | 21520242 |
+| Phan Huy Hoang | 21520242 |
 | Pham Thi Tram Anh | 21520146 |
 | Duong Van Nhat Long | 20521561 |
 | Truong Quang Thien | 20520310 |
